@@ -3,10 +3,10 @@
   <info>
     <title>ABNT Expandido - Autoria abreviada - Adaptado de UFRGS - ABNT (autoria abreviada) (Português - Brasil)</title>
     <title-short>ABNT-EXPANDIDO</title-short>
-    <id>https://github.com/UnconsciousBlaringHuman/config-files/blob/main/Zotero/styles/abnt-extra-initials.csl</id>
+    <id>https://github.com/UnconsciousBlaringHuman/csl/blob/main/abnt-extra-initials.csl</id>
     <!-- Link para o `.csl`. Talvez permita atualização automática? -->
-    <link href="https://github.com/UnconsciousBlaringHuman/config-files/blob/main/Zotero/styles/" rel="documentation"/>
-    <link href="https://github.com/UnconsciousBlaringHuman/config-files/blob/main/Zotero/styles/" rel="self"/>
+    <link href="https://github.com/UnconsciousBlaringHuman/csl/blob/main/" rel="documentation"/>
+    <link href="https://github.com/UnconsciousBlaringHuman/csl/blob/main/" rel="self"/>
     <!-- Não adicionei meu nome ou email no cabeçalho.
     CHANGELOG
     (2024-10-15)
